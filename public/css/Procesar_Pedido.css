@@ -1,0 +1,16 @@
+.mensaje{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    font-size: 4vh;
+    padding: 10px;
+}
+
+h1{
+    padding: 10px;
+}
+
+.back{
+    padding: 10px;
+    font-size: 3VH;
+}

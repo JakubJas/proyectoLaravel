@@ -1,0 +1,29 @@
+/* Estilos generales */
+body {
+    padding: 20px;
+}
+
+/* Centrar la tabla */
+#tablaLibros {
+    margin: 0 auto;
+}
+
+#tablaCarrito {
+    margin: 0 auto;
+}
+
+
+td{
+    padding-left: 10px;
+    padding-top: 5px;
+}
+
+th{
+    text-align: center;
+    padding: 10PX;
+}
+
+li
+{
+    list-style: none;
+}
